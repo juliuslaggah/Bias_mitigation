@@ -1,0 +1,43 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# LaTeX intermediate files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.synctex.gz
+*.fdb_latexmk
+*.blg
+*.bbl
+
+# Build folder
+_build/
+build/
+*.pdf
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
